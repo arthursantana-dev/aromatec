@@ -1,0 +1,75 @@
+@import url(./var.css);
+
+body {
+	font-family: var(--content-font);
+}
+
+nav.navbar {
+	background-color: var(--bg-atual) !important;
+	-webkit-box-shadow: -1px 10px 69px -29px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 10px 69px -29px rgba(0,0,0,0.75);
+	box-shadow: -1px 10px 69px -29px rgba(0,0,0,0.75);
+}
+
+.header__img {
+	width: 8rem;
+}
+
+h1 {
+	font-family: var(--title-font);margin-bottom: 0.5rem;
+	font-size: 3rem;
+}
+
+img.hero__img {
+	width: 100%;
+}
+
+main {
+	padding: 2rem;
+}
+
+article p {
+	font-size: 1.2rem;
+}
+
+article p em {
+	font-weight: 600;
+	font-style: normal;
+}
+
+footer {
+	background-color: var(--bg-footer-atual);
+	border-radius: 1rem 1rem 0 0;
+	padding: 2.5rem;
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+
+footer .col {
+	width: fit-content;
+}
+
+footer .col:nth-child(2){
+	display: flex;
+	justify-content: flex-end;
+}
+
+footer img.footer__img {
+	width: 14rem;
+}
+
+footer ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+footer ul li a {
+	text-decoration: none;
+	color: black;
+}
+
+footer img.footer__img-parceiros{
+	width: 7rem;
+}

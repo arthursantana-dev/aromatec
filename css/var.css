@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');
+
+@font-face {
+	font-family: "Scarlet Heart";
+	src: url(../fonts/ScarletHeart.ttf);
+}
+
+
+:root {
+	--bg-principal: white;
+	--bg-footer-principal: #D6D6D6;
+
+	--bg-atual: var(--bg-principal);
+	--bg-footer-atual: var(--bg-footer-principal);
+
+	--ess-citricas: #ABDD96;
+	--condimentos: #F8C9D3;
+	--ervas-aromaticas: #8088C6;
+	--aromas-oleoresinas: #EDD869;
+	--oleos-essenciais: #B8A84F;
+	--especiarias: #E48F71;
+	--ess-adocidadas: #B47878;
+
+	--content-font: 'Montserrat', sans-serif;
+	--title-font: 'Scarlet Heart', sans-serif;
+}
