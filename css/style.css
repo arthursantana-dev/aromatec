@@ -1,5 +1,35 @@
 @import url(./var.css);
 
+.tipo-ess-citricas {
+	--bg-atual: rgb(var(--ess-citricas)); 
+	--bg-main: rgba(var(--ess-citricas), 0.2);
+}
+.tipo-condimentos {
+	--bg-atual: rgb(var(--condimentos)); 
+	--bg-main: rgba(var(--condimentos), 0.2);
+}
+.tipo-ervas-aromaticas {
+	--bg-atual: rgb(var(--ervas-aromaticas)); 
+	--bg-main: rgba(var(--ervas-aromaticas), 0.2);
+}
+.tipo-aromas-oleoresinas {
+	--bg-atual: rgb(var(--aromas-oleoresinas)); 
+	--bg-main: rgba(var(--aromas-oleoresinas), 0.2);
+}
+.tipo-oleos-essenciais {
+	--bg-atual: rgb(var(--oleos-essenciais)); 
+	--bg-main: rgba(var(--oleos-essenciais), 0.2);
+}
+.tipo-especiarias {
+	--bg-atual: rgb(var(--especiarias)); 
+	--bg-main: rgba(var(--especiarias), 0.2);
+}
+.tipo-ess-adocidadas {
+	--bg-atual: rgb(var(--ess-adocidadas)); 
+	--bg-main: rgba(var(--ess-adocidadas), 0.2);
+}
+
+
 body {
 	font-family: var(--content-font);
 }
@@ -26,6 +56,9 @@ img.hero__img {
 
 main {
 	padding: 2rem;
+	background-color: rgba(var(--bg-atual), var(--opacidade-main)) ;
+	background-color: rgba(228, 143, 113, 0.1);
+	background-color: var(--bg-main);
 }
 
 article {
@@ -41,13 +74,52 @@ article p em {
 	font-style: normal;
 }
 
+/* Site de um Aroma */
+
+section.aroma-wrapper {
+	margin: auto;
+	width: fit-content;
+}
+
+div.tipo-wrapper {
+	width: fit-content;
+	display: flex;
+	align-items: flex-end;
+	margin-bottom: -20px;
+
+}
+
+div.tipo-cor {
+	height: 1.5rem;
+    width: 10rem;
+    margin-bottom: 29px;
+    margin-left: 0.2rem;
+    background-color: var(--bg-atual);
+	
+}
+
+p#aroma-tipo {
+	font-size: 2.3rem;
+}
+
+h1#aroma-title {
+	font-size: 8rem;
+}
+
+p#aroma-nome-cientifico {
+	font-style: italic;
+	font-size: 2rem;
+}
+
 footer {
-	background-color: var(--bg-footer-atual);
+	background-color: rgb(var(--bg-footer-atual));
 	border-radius: 1rem 1rem 0 0;
 	padding: 2.5rem;
 	display: flex;
 	align-items: flex-start;
 	justify-content: space-between;
+	position: relative;
+	bottom: 1rem;
 }
 
 footer .col {
