@@ -13,7 +13,9 @@
 	--bg-atual: var(--bg-principal);
 	--bg-footer-atual: var(--bg-footer-principal);
 
-	--bg-main: rgba(var(--bg-atual), 0.9);
+	--bg-card: rgb(247, 247, 247);
+
+	--bg-main: var(--bg-atual);
 
 	--ess-citricas: 171, 221, 150;
 	--condimentos: 248, 201, 211;
@@ -21,7 +23,7 @@
 	--aromas-oleoresinas: 237, 216, 105;
 	--oleos-essenciais: 184, 168, 79;
 	--especiarias: 228, 143, 113;
-	--ess-adocidadas: 180, 120, 120;
+	--ess-adocicadas: 180, 120, 120;
 
 	--content-font: 'Montserrat', sans-serif;
 	--title-font: 'Scarlet Heart', sans-serif;
