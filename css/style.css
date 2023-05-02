@@ -211,3 +211,33 @@ footer ul li a {
 footer img.footer__img-parceiros {
   width: 3rem;
 }
+
+/* Catálogo de Aromas */
+
+h1#catalogo {
+  padding: 1rem;
+}
+
+div.tipo-aroma {
+  background-color: green;
+  width: 100vw;
+  position: relative;
+  padding-block: 0.8rem;
+  padding-inline: 2rem;
+  margin-block: 0.5rem;
+}
+
+div.tipo-aroma ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+li.lista-aroma__aroma {
+  width: 7.5rem;
+}
+
+div.tipo-aroma ul a {
+  text-decoration: none;
+  color: black;
+}
