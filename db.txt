@@ -1,0 +1,22 @@
+-------------------Colunas-------------------
+V-Tipo
+V-Nome
+V-NOME_C
+V-Origem
+-Curiosidade
+V-Descricao
+-Beneficios
+V-Usos
+V-Composição
+----------------------------------------------
+
+-------------------Database-------------------
+create database Aromatec; use Aromatec; create table if not exists itens ( id int auto_increment primary key, tipo varchar(64) not null, nome varchar(64) not null, nome_c varchar(64) not null, origem MEDIUMTEXT not null, curiosidade MEDIUMTEXT, descricao LONGTEXT not null, beneficios MEDIUMTEXT, usos MEDIUMTEXT not null, composicao longtext not null );
+----------------------------------------------
+
+-------------------Inserts-------------------
+
+insert into itens values(default,'Oleoresina' , 'Oleoresina de alecrim', 'Rosmarinus Officinalis','é extraído das folhas da planta', null, 'vazio', 'Têm sido utilizadas na medicina popular para muitas condições, pois possuem ação antiespasmódica, analgésica, antirreumática, carminativa colagoga, diurética, expectorante e antiepiléptica. Além de poderoso antioxidante, o oleoresina de alecrim é descongestionante, digestivo e regenerador do fígado.', 'As folhas de alecrim são usadas para dar sabor aos alimentos e evita a oxidação e o ranço em óleos vegetais, produtos e alimentos que contenham óleo (gordura)', 'Ácido Carnósico Ácido Rosmarínico, Rosmaridifenol, Carnosol, Rosmanol e Rosmaridiquinona.'),
+(default, 'Folha', 'Manjericão-de-folha-larga', 'Ocimum basilicum', 'Provavelmente chegou à Europa, vinda da Índia, passando pelo Oriente Médio. É subespontâneo em todo o Brasil.', null, 'vazio', 'O consumo do manjericão combate cansaço, depressão, enxaqueca e insônia; é eficaz também na cura de laringite e faringite; ajuda a diminuir a febre; combate a acne; ativa o sistema imunológico; desinflama aftas; possui propriedades analgésicas, antissépticas e cicatrizantes', 'A planta do manjericão tem um uso culinário comum, é ótima companheira dos tomates e ingrediente fundamental para se fazer o famoso pesto genovese, molho típico da Itália Também vai bem em saladas, massas, sopas, refogados de carne e com queijos.', 'Os mais importantes componentes aromáticos são cineol, linalol, citral, estragol, eugenol e cinamato de metila'); 
+
+----------------------------------------------
