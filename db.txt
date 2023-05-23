@@ -1,5 +1,5 @@
 -------------------Colunas-------------------
-V-Tipo (oleoresina, citricas,condimentos,aromaticas,essenciais,especiarias,adocicadas)
+V-Tipo (oleoresina, citricas,condimentos,ERV. AROMATICA,essenciais,especiarias,adocicadas)
 V-Nome
 V-NOME_C
 V-Origem
