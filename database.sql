@@ -37,7 +37,7 @@ embora muitas vezes sejam removidas para manter o foco no crescimento das folhas
 <li>Polvilhe folhas de manjericão-folha-larga fresco sobre pizzas caseiras ou compradas prontas para adicionar um sabor único e perfumado</li>
 </ul>"
 ),
-/*#2*/("Condimento", "Hortelã", "Mentha crispata", "vindo do Mediterrâneo<br /> a hortelã é uma das plantas mais antigas usadas para fins medicinais <br /> composição: mentol, menthona, cineol, carvona e ácido rosmarínico","
+/*#2*/("Condimento", "Hortelã", "Mentha crispata", "vinda do Mediterrâneo<br /> a hortelã é uma das plantas mais antigas usadas para fins medicinais <br /> composição: mentol, menthona, cineol, carvona e ácido rosmarínico","
 A hortelã é uma planta herbácea pertencente à família das Lamiáceas, conhecida cientificamente como Mentha. É amplamente cultivada e apreciada 
 por suas folhas aromáticas e sabor refrescante.<br /><br />
 Ao longo da história, a hortelã foi amplamente cultivada e utilizada em diferentes culturas e tradições culinárias. Sua popularidade se deve ao seu aroma refrescante e sabor mentolado, 
