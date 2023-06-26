@@ -16,7 +16,7 @@ insert into itens (tipo, nome, nome_c, curiosidade, descricao, beneficios, usos)
 
 -- Condimentos
 
-/*#1*/("Condimento", "Manjericão", "Ocimum basilicum", " vinda das Regiões tropicais da Índia <br /> foi considerada uma erva sagrada <br /> composição: cineol, linalol, citral, estragol, eugenol e cinamato de metila","
+/*#1*/("Condimento", "Manjericão", "Ocimum basilicum", "vindo das Regiões tropicais da Índia<br /> foi considerada uma erva sagrada <br /> composição: cineol, linalol, citral, estragol, eugenol e cinamato de metila","
 O manjericão-folha-larga, também conhecido como manjericão genovês, é uma variedade de manjericão popular e amplamente cultivada. Suas folhas são grandes, 
 de cor verde vibrante e possuem um aroma doce e picante. É uma erva versátil, utilizada em várias culinárias ao redor do mundo.<br /><br />
 Sua fragrância única também tem sido utilizada em perfumaria, na fabricação de sabonetes e produtos cosméticos, conferindo um aroma agradável a esses produtos.<br /><br />
@@ -37,7 +37,7 @@ embora muitas vezes sejam removidas para manter o foco no crescimento das folhas
 <li>Polvilhe folhas de manjericão-folha-larga fresco sobre pizzas caseiras ou compradas prontas para adicionar um sabor único e perfumado</li>
 </ul>"
 ),
-/*#2*/("Condimento", "Hortelã", "Mentha crispata", " vinda da Europa <br /> a hortelã é uma das plantas mais antigas usadas para fins medicinais <br /> composição: mentol, menthona, cineol, carvona e ácido rosmarínico","
+/*#2*/("Condimento", "Hortelã", "Mentha crispata", "vindo do Mediterrâneo<br /> a hortelã é uma das plantas mais antigas usadas para fins medicinais <br /> composição: mentol, menthona, cineol, carvona e ácido rosmarínico","
 A hortelã é uma planta herbácea pertencente à família das Lamiáceas, conhecida cientificamente como Mentha. É amplamente cultivada e apreciada 
 por suas folhas aromáticas e sabor refrescante.<br /><br />
 Ao longo da história, a hortelã foi amplamente cultivada e utilizada em diferentes culturas e tradições culinárias. Sua popularidade se deve ao seu aroma refrescante e sabor mentolado, 
@@ -59,7 +59,7 @@ por isso, é recomendado cultivá-la em recipientes ou em áreas delimitadas par
 <li>A hortelã é um ingrediente popular em sorvetes e gelados, trazendo uma sensação refrescante em sobremesas</li>
 </ul>"
 ),
-/*#3*/("Condimento", "Orégano", "Origanum vulgare", " vinda do Mediterrâneo originalmente <br /> para os antigos gregos e romanos era considerado um símbolo de alegria e felicidade <br /> composição: fenólicos, vitaminas, minerias, terpenos, esteróis e ácidos graxos","
+/*#3*/("Condimento", "Orégano", "Origanum vulgare", "vindo do Mediterrâneo<br /> para os antigos gregos e romanos era considerado um símbolo de alegria e felicidade <br /> composição: fenólicos, vitaminas, minerias, terpenos, esteróis e ácidos graxos","
 O orégano é uma planta aromática e herbácea que pertence à família das Lamiaceae. Seu nome científico é Origanum vulgare. É nativo da região do Mediterrâneo e amplamente 
 utilizado na culinária de várias culturas ao redor do mundo.<br /><br />
 São utilizadas as suas folhas, frescas ou secas, pelo sabor e aroma que dão aos pratos. O orégano é um condimento mais conhecido como uma folha repartida, várias 
@@ -80,7 +80,7 @@ Ele pode ser cultivado em jardins ou em vasos, preferindo sol pleno e solo bem d
 <li>O orégano pode ser adicionado à massa de pães, pãezinhos ou focaccias, proporcionando um aroma e sabor extra</li>
 </ul>"
 ),
-/*#4*/("Condimento", "Cebolinha", "Allium schoenoprasum", " vinda das Regiões da Ásia Central <br /> na China, era vista como um símbolo de longevidade <br /> composição: água, carboidratos, proteínas, vitaminas, minerais e antioxidantes","
+/*#4*/("Condimento", "Cebolinha", "Allium schoenoprasum", "vinda das Regiões da Ásia Central<br /> na China, era vista como um símbolo de longevidade <br /> composição: água, carboidratos, proteínas, vitaminas, minerais e antioxidantes","
 A cebolinha é uma planta herbácea que pertence à família das cebolas Alliaceae. Ela é caracterizada por suas folhas longas e finas, de cor verde brilhante, 
 que são amplamente utilizadas como tempero na culinária.<br /><br />
 Ela tem um sabor suave e delicado, semelhante ao da cebola, porém mais suave. Ela é comumente usada fresca em 
@@ -101,7 +101,7 @@ Ela é uma planta de cultivo relativamente fácil. Ela pode ser cultivada a part
 <li>Pode ser adicionada cebolinha picada a molhos, como molho de iogurte, molho tártaro, molho de queijo, molho de tomate e etc...</li>
 </ul>"
 ),
-/*#5*/("Condimento", "Pimenta-preta", "Piper nigrum", " vinda das Regiões tropicais da Índia <br /> no passado, ela era usada como moeda de troca e até mesmo como forma de pagamento de impostos e dotes <br /> composição: piperina, óleos essenciais, alcaloides, vitaminas e minerais","
+/*#5*/("Condimento", "Pimenta-preta", "Piper nigrum", "vinda das Regiões tropicais da Índia<br /> no passado, ela era usada como moeda de troca e até mesmo como forma de pagamento de impostos e dotes <br /> composição: piperina, óleos essenciais, alcaloides, vitaminas e minerais","
 A pimenta-preta é uma especiaria obtida a partir das bagas do arbusto de pimenta-preta. Ela é amplamente utilizada 
 na culinária devido ao seu sabor picante, levemente picante e aroma característico.<br /><br />
 Ela é nativa das regiões tropicais da Índia e é cultivada em diversas partes do mundo. Ela é colhida quando as bagas estão maduras e, em seguida, passa por um processo de secagem, que pode 
@@ -125,7 +125,7 @@ antioxidantes, anti-inflamatórias e estimulantes da digestão. Ela também pode
 
 -- Oleoresinas
 
-/*#6*/("Oleoresina", "Alecrim", "Rosmarinus Officinalis", " vinda do Mediterrâneo <br /> o alecrim era considerado uma planta sagrada dedicada à deusa Afrodite  <br /> composição: ácido carnósico ácido rosmarínico, rosmaridifenol, carnosol, rosmanol e rosmaridiquinona","
+/*#6*/("Oleoresina", "Alecrim", "Rosmarinus Officinalis", "vindo do Mediterrâneo<br /> o alecrim era considerado uma planta sagrada dedicada à deusa Afrodite  <br /> composição: ácido carnósico ácido rosmarínico, rosmaridifenol, carnosol, rosmanol e rosmaridiquinona","
 A oleoresina de alecrim é um extrato concentrado obtido das folhas da planta de alecrim. Ela contém uma combinação 
 de componentes voláteis e não voláteis presentes na planta, incluindo óleos essenciais, resinas e outros compostos bioativos.<br /><br />
 Os principais componentes ativos da oleoresina de alecrim são os óleos essenciais, que são responsáveis pelo aroma característico da planta. 
@@ -145,7 +145,7 @@ e seu uso deve ser feito de acordo com as diretrizes e regulamentações adequad
 <li>Adicionar algumas gotas de oleoresina de alecrim em queijos frescos ou caseiros pode um dar sabor adicional e temperado, além de realçar o aroma</li>
 </ul>"
 ),
-/*#7*/("Oleoresina", "Copaíba", "Copaifera langsdorffii", " vinda das Regiões Tropicais da América Latina <br /> indígenas da região amazônica a usaram para fins medicinais durante séculos  <br /> composição: sesquiterpenos, diterpenos, cariofileno, bisaboleno, bergamoteno, selineno e humuleno","
+/*#7*/("Oleoresina", "Copaíba", "Copaifera langsdorffii", "vinda das Regiões Tropicais da América Latina<br /> indígenas da região amazônica a usaram para fins medicinais durante séculos  <br /> composição: sesquiterpenos, diterpenos, cariofileno, bisaboleno, bergamoteno, selineno e humuleno","
 A oleoresina de copaíba é um líquido viscoso e resinoso obtido a partir da árvore do gênero Copaifera, encontrada principalmente na região amazônica da América do Sul. 
 Essa oleoresina possui propriedades terapêuticas e medicinais, sendo utilizada tradicionalmente na medicina popular e indígena da Amazônia. <br /><br/>
 Alguns dos benefícios associados à oleoresina de copaíba incluem propriedades anti-inflamatórias, analgésicas, antimicrobianas e cicatrizantes. Devido às suas propriedades, a oleoresina de copaíba é utilizada em uma variedade de produtos naturais e farmacêuticos, incluindo pomadas, géis, cremes, loções e suplementos.<br /><br/>
@@ -161,7 +161,7 @@ Além disso, a oleoresina de copaíba é utilizada em produtos de cuidados pesso
 <li>A ingestão de oleoresina de copaíba deve ser feita com cuidado e sob orientação de um profissional de saúde qualificado, por isso não é recomendado o uso em pratos da culinária tradicional.</li>
 </ul>"
 ),
-/*#8*/("Oleoresina", "Mirra", "Commiphora myrrha", " vinda das Regiões áridas da Península Arábica <br /> no Antigo Egito, a mirra era um dos presentes mais valiosos que um faraó poderia oferecer aos deuses  <br /> composição: ácidos resinosos, sesquiterpenos, cromonas e óleos voláteis","
+/*#8*/("Oleoresina", "Mirra", "Commiphora myrrha", "vinda das Regiões áridas da Península Arábica<br /> no Antigo Egito, a mirra era um dos presentes mais valiosos que um faraó poderia oferecer aos deuses  <br /> composição: ácidos resinosos, sesquiterpenos, cromonas e óleos voláteis","
 A Óleoresina de Mirra é uma substância resinosa obtida a partir da árvore de mirra, conhecida cientificamente como Commiphora myrrha. 
 É produzida através da perfuração da casca da árvore, o que permite que a resina flua para fora e seja coletada.<br /><br />
 A oleoresina de mirra é caracterizada por seu aroma intenso e amadeirado, e possui uma ampla gama de compostos ativos, incluindo resinas, óleos voláteis e compostos fenólicos. Essa composição única confere à oleoresina propriedades terapêuticas e aromáticas valiosas.<br /><br />
@@ -181,7 +181,7 @@ especialmente se você tiver condições médicas específicas ou estiver tomand
 
 -- Ervas Aromáticas
 
-/*#9*/("Erva Aromática", "Coentro", "Coriandrum sativum", " vinda do Antigo Egito <br /> antigos egípcios já a utilizavam para embalsamar os corpos e como planta medicinal <br /> composição: ácidos graxos, flavonoides, vitaminas, minerais, carboidratos e fibras","
+/*#9*/("Erva Aromática", "Coentro", "Coriandrum sativum", "vindo do Egito Antigo<br /> antigos egípcios já a utilizavam para embalsamar os corpos e como planta medicinal <br /> composição: ácidos graxos, flavonoides, vitaminas, minerais, carboidratos e fibras","
 A planta do coentro, é uma erva anual da família Apiaceae. Ela é 
 cultivada principalmente por suas folhas, conhecidas como coentro fresco ou coentro verde, e também pelas sementes de coentro.<br /><br />
 Ele tem um aroma distintivo que pode ser descrito como uma combinação de cítrico, picante e terroso. No entanto, é importante destacar que o sabor do coentro pode ser polarizante. Algumas pessoas adoram o 4
