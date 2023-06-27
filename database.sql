@@ -530,7 +530,7 @@ Além de seu aroma distintivo, o óleo de rosas também é valorizado por suas p
 <li>Se misturado em iogurtes, mousses, pudins e outras sobremesas lácteas pode adicionar um sabor floral e refrescante a essas preparações</li>
 </ul>"
 ),
-/*#26*/("Óleo Essencial", "Lavanda", "Lavandula angustifolia", "vinda do Mediterrâneo<br />Durante a Primeira Guerra Mundial, o óleo de lavanda foi utilizado para tratar feridas de soldados<br /> composição: linalol, acetato de linalila, terpinen-4-ol, cineol e beta-cariofileno","
+/*#26*/("Óleo Essencial", "Lavanda", "Lavandula angustifolia", "vinda do Mediterrâneo<br />durante a Primeira Guerra Mundial, o óleo de lavanda foi utilizado para tratar feridas de soldados<br /> composição: linalol, acetato de linalila, terpinen-4-ol, cineol e beta-cariofileno","
 O óleo de lavanda é um líquido altamente aromático e volátil extraído das flores da planta Lavandula angustifolia. É obtido através de um processo de destilação a vapor, no qual as flores são submetidas ao vapor d'água para liberar 
 os compostos aromáticos presentes. O resultado é um óleo com um aroma floral suave e reconfortante.<br /><br />
 Ele é amplamente conhecido por sua fragrância agradável e relaxante, sendo utilizado em diversas aplicações, desde perfumaria e produtos de cuidados pessoais até aromaterapia e produtos de limpeza. Sua popularidade se deve não apenas ao seu aroma agradável, mas também às suas propriedades terapêuticas.<br /><br />
