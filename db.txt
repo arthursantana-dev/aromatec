@@ -1,13 +1,13 @@
 -------------------Colunas-------------------
-V-Tipo (oleoresina, citricas,condimentos,aromaticas,essenciais,especiarias,adocicadas)
-V-Nome
-V-NOME_C
-V-Origem
--Curiosidade
-V-Descricao
--Beneficios
-V-Usos
-V-Composição
+Tipo (oleoresina/citricas/condimentos/aromaticas/essenciais/especiarias/adocicadas)
+Nome
+NOME_C
+Origem
+Curiosidade
+Descricao
+Beneficios
+Usos
+Composição
 ----------------------------------------------
 
 -------------------Database-------------------
